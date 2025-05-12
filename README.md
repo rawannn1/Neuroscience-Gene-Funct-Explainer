@@ -8,4 +8,4 @@ You can type any neuroscience-related gene name (like COMT, DRD4, BDNF), and thi
 3. It shows a short, real explanation of what the gene does.
 
 ## Why it's useful:
-You're no longer limited — this works for any human gene that NCBI knows about.
+You're no longer limited, this works for any human gene that NCBI knows about.
